@@ -110,6 +110,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 A code editor;
 Clone the repository and follow the next steps:
+Dont use quotation marks (").
 
 ### Setup, Install and Run tests
 
@@ -118,17 +119,17 @@ To run tests, run the following command:
 ***Webhintrc***
 **To install:**
 *After 'npm init', use:*
-npm install --save-dev hint@7.x
+"npm install --save-dev hint@7.x"
 
 **To run:**
-npx hint .
+"npx hint ."
 
 ***Stylelint***
 **To install:**
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+"npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x"
 
 **To run**
-npx stylelint "**/*.{css,scss}"
+"npx stylelint "**/*.{css,scss}"
 
 
 ### Deployment
