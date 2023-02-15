@@ -56,11 +56,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello World with HTML/CSS <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Hello World with HTML/CSS** is a simple minimalistic project where you can learn how to use a sequence of linters to analyse your code structure. This projects alternative use could involve viewing a HTML online or on you local computer. Make ajustments and test the linters in action, to minimize development errors or de-railing from best practices, both with the potential to create refactoring.
 
 ## 🛠 Built With <a name="built-with"></a>
 
