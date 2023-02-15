@@ -178,4 +178,4 @@ I would like to thank my Microverse Partners, Jav and Ed.
 
 ## 📝 License <a name="license">MIT 2023</a>
 
-This project is [MIT]([LICENSE](https://github.com/cancelei/Porject-1---Hello-2/blob/master/license)) licensed.
+This project is [MIT](https://github.com/cancelei/Porject-1---Hello-2/blob/master/license) licensed.
