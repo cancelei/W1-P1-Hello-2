@@ -1,33 +1,8 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-
-  <h3><b>Cancelei's README for this project</b></h3>
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <h3><b>Cancelei's Hello Project</b></h3>
 
 </div>
 
@@ -41,24 +16,29 @@ After you're finished please remove all the comments and instructions!
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Setup, Install, Usage](#install)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](/license)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello World with HTML/CSS <a name="about-project"></a>
+# 📖 Simple Hello Project <a name="about-project"></a>
 
+> Describe your project in 1 or 2 sentences.
 
-**Hello World with HTML/CSS** is a simple minimalistic project where you can learn how to use a sequence of linters to analyse your code structure. This projects alternative use could involve viewing a HTML online or on you local computer. Make ajustments and test the linters in action, to minimize development errors or de-railing from best practices, both with the potential to create refactoring.
+**Simple Hello Project** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With Love and Passion<a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -67,14 +47,21 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://html.com/">HTML and CSS</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>N/A</li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li>N/A</li>
   </ul>
 </details>
 
@@ -82,8 +69,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[HTML/CSS Front End]**
-- **[Backend linterUsage]**
+> Describe between 1-3 key features of the application.
+
+- **Feature HTML**
+- **Feature CSS**
+- **Feature Linters**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,34 +98,46 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-A code editor;
-Clone the repository and follow the next steps:
-Dont use quotation marks (").
 
-### Setup, Install and Run tests
+Download Project Files from github.
+<!--
+Example command:
 
-To run tests, run the following command:
+```sh
+ gem install rails
+```
+ -->
 
-***Webhintrc***
-**To install:**
-*After 'npm init', use:*
-"npm install --save-dev hint@7.x"
+### Setup
 
-**To run:**
-"npx hint ."
+Clone this repository to your desired folder:
 
-***Stylelint***
-**To install:**
-"npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x"
+<!--
+Example commands:
 
-**To run**
-"npx stylelint "**/*.{css,scss}"
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
+### Install
+
+Install this project with:
+
+N/A
+
+### Usage
+
+N/A
+
+### Run tests
+
+N/A
 
 ### Deployment
 
-You can deploy this project using:
-A code Editor and GitHub Cloning Link.
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +145,9 @@ A code Editor and GitHub Cloning Link.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Main Author**
+> Mention all of the collaborators of this project.
+
+👤 **Author Glauber Bannwart**
 
 - GitHub: [@cancelei](https://github.com/cancelei)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/gbannwart)
@@ -154,16 +158,21 @@ A code Editor and GitHub Cloning Link.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Linter usage**
-- [ ] **HTML and CSS front end.**
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
-Is disabled in this phase of this project.
+N/A
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,12 +180,22 @@ Is disabled in this phase of this project.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my Microverse Partners, Jav and Ed.
+> Give credit to everyone who inspired your codebase.
+
+N/A
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license">MIT 2023</a>
+## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/cancelei/Porject-1---Hello-2/blob/master/license) licensed.
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
